@@ -74,7 +74,7 @@ The project is meticulously organized for reproducibility and scalability across
 Clone the repository:
 
 ```
-git clone https://github.com/Amen-Zelealem/Rossmann-Sales-Prediction
+git clone https://github.com/shayan-ing/Pharma-Store-Sales-Forecasting
 
 ```
 change directory:
@@ -149,9 +149,6 @@ git push origin feature-branch
    
 ### 👨🏼‍💻Thank you for your interest in the **Rossmann Sales Forecasting project**! 
 
-Feel free to reach out using the contact below:
-
-✉️ [Amen-Zelealem](mailto:amenzelealem@gmail.com)
 
 ## **🌟 Let's make sales predictions smarter together!**
 
