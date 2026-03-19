@@ -111,7 +111,7 @@ Fig 3. Sales Behaviour
 
 ###  🖥️ **FLASK APPLICATION SCREENSHOTS**
 
-![predictionForm](/screenshots/predictionForm.png)
+![predictionForm](https://github.com/shayan-ing/Pharma-Store-Sales-Forecasting/blob/main/screenshots/predictionForm.png)
 
 Fig 4. PredictionForm
 
